@@ -44,8 +44,6 @@ def ax_optimization():
 
     pp.pprint(best_parameters)
     pp.pprint(values)
-    pp.pprint(experiment)
-    pp.pprint(model)
 
 
 if __name__ == '__main__':
